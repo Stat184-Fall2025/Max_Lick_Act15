@@ -1,0 +1,14 @@
+Goal: Create a QMD File to Output as a PDF, documenting several past assignments
+
+Needs: tinytex package, files from previous activities (4, 8, 10, and 13)
+
+Steps:
+1. Create initial QMD File
+2. Add YAML header
+3. Add Armed Forces Data Wrangling section
+4. Add Baby Names section
+5. Add Mathematical Function Plotting section
+6. Add narrative text for all relevant areas
+7. Add a "What I've Learned So Far" section
+8. Create code appendix
+9. Render as PDF file
