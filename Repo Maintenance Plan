@@ -1,1 +1,13 @@
 Goal: Create and Maintain a Repository in Github to contain the files for Activity 15
+
+Needs: Github account, repository
+
+Steps: 
+  1. Log in to Github
+  2. Go to Stat184-Fall2025 page
+  3. Create Repo
+  4. Add README file to give repo description
+  5. Create second branch
+  6. Create multiple commits to each branch
+  7. Create issues to tag commits with
+  8. Update Repo with Activity 14 QMD and PDF files
